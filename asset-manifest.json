@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "./static/css/main.c1e08fb2.css",
+    "main.js": "./static/js/main.ed0bdc9f.js",
+    "static/media/PlusJakartaSans-Bold.woff": "./static/media/PlusJakartaSans-Bold.3d6b4fa00ddd6f9fae49.woff",
+    "static/media/PlusJakartaSans-Regular.woff": "./static/media/PlusJakartaSans-Regular.f344d0fa890f4d98d58b.woff",
+    "static/media/PlusJakartaSans-Bold.woff2": "./static/media/PlusJakartaSans-Bold.50cf6471d1a39b735af6.woff2",
+    "static/media/PlusJakartaSans-Regular.woff2": "./static/media/PlusJakartaSans-Regular.c4e0d18736aa954b32bf.woff2",
+    "index.html": "./index.html",
+    "main.c1e08fb2.css.map": "./static/css/main.c1e08fb2.css.map",
+    "main.ed0bdc9f.js.map": "./static/js/main.ed0bdc9f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1e08fb2.css",
+    "static/js/main.ed0bdc9f.js"
+  ]
+}
